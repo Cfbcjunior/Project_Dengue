@@ -41,6 +41,6 @@ Os notebooks estão numerados em ordem de execução lógica:
 4. `04_gold.ipynb` - Modelagem dimensional (Star Schema).
 5. `05_analytics.ipynb` - Consultas e validações analíticas.
 
-## 👩‍💻 Autora
+## 👩‍💻 Autor
 **Carlos Fernando Cardoso Junior**
 [LinkedIn](http://linkedin.com/in/carlos-cardoso-junior-a7503bb4)
